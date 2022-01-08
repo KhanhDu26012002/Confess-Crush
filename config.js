@@ -1,11 +1,8 @@
 const CONFIG = {
     titleWeb: "Trần Khánh Dư",
     introTitle: 'Hello Thanh Nhạc',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: '^^HiHi^^',
+    introDesc: `Nhấn vào không sợ bay nick à. Dám nhấn Tiếp k??? `,
+    btnIntro: '^^Tiếp^^',
     title: 'Thích thì nhích nè eiu 🥰',
     desc: 'Thích thì đòng ý nè!! còn ko thì nói để anh còn cua đứa khác ',
     btnYes: 'Thích lắm <33',
